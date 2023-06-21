@@ -1,0 +1,3 @@
+/home/giordana/Downloads/T3-SO-Escalonador/cmake-build-debug/CMakeFiles/T3_SO_Escalonador.dir
+/home/giordana/Downloads/T3-SO-Escalonador/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giordana/Downloads/T3-SO-Escalonador/cmake-build-debug/CMakeFiles/rebuild_cache.dir

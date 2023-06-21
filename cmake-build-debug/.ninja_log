@@ -1,0 +1,12 @@
+# ninja log v5
+0	35	1687309676552038475	CMakeFiles/T3_SO_Escalonador.dir/main.c.o	5c87c322ebc4f931
+0	20	1687310757700342855	build.ninja	2c4a17315b02970
+19	38	1687308710280501625	CMakeFiles/T3_SO_Escalonador.dir/classes/listas.c.o	94fcb172566f17c8
+0	26	1687310691891454831	CMakeFiles/T3_SO_Escalonador.dir/classes/system.c.o	61bd466ac8658d37
+0	19	1687308710260501625	CMakeFiles/T3_SO_Escalonador.dir/classes/util.c.o	c802a836d490f95d
+35	68	1687309676580052476	CMakeFiles/T3_SO_Escalonador.dir/classes/filas_lista.c.o	2b6b4abef5941f25
+60	81	1687308710320501625	CMakeFiles/T3_SO_Escalonador.dir/classes/filas_vetor.c.o	bacbbe7f48944d2e
+27	86	1687310691911464830	T3_SO_Escalonador	8c9e9f7ec7f049d4
+0	15	1687310922518710931	CMakeFiles/T3_SO_Escalonador.dir/classes/system.c.o	61bd466ac8658d37
+15	33	1687310922534718930	CMakeFiles/T3_SO_Escalonador.dir/classes/processador.c.o	44aeee6d39fca986
+33	66	1687310922542722930	T3_SO_Escalonador	85d10b2957f9405b
